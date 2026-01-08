@@ -17,7 +17,6 @@
 - 💻 **ITI Graduate** (Intensive Training - PHP & Laravel Full Stack Track).
 - 🛠️ I specialize in building robust **Backend Systems**, **RESTful APIs**, and **Database Architectures**.
 - 🔭 I’m currently working on advanced **Multi-Tenancy Systems**.
-- 🕵️‍♂️ Interested in **Cybersecurity**, Bug Hunting, and CTF Challenges.
 - 📫 How to reach me: **youseftohtoh46@gmail.com**
 
 ---
