@@ -63,7 +63,8 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yousefaltohamy&theme=radity&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefaltohamy&theme=radity&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="streak graph" />
+</div>
 </div>
 
 ---
