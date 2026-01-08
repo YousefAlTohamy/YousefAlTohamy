@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 ---
@@ -51,7 +50,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yousefaltohamy&show_icons=true&theme=radity&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radity&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefaltohamy&layout=compact&theme=radity&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="160" alt="languages graph" />
 </div>
 
 <div align="center">
