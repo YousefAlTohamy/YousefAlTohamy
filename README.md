@@ -62,11 +62,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yousefaltohamy&layout=compact&theme=radity&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="160" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefaltohamy&theme=radity&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="streak graph" />
-</div>
-</div>
-
 ---
 
 <div align="center">
