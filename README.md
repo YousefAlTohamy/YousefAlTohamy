@@ -19,6 +19,7 @@
 
 - 🎓 **Senior Computer Science Student** at Kafr El Sheikh University (Class of 2026).
 - 💻 **ITI Graduate** (Intensive Training - PHP & Laravel Full Stack Track).
+- 💼 **Former Backend Developer Intern** at **Huma-volve**.
 - 🛠️ Dedicated to building robust **Backend Systems** and **High-Performance APIs**.
 - 📐 Passionate about **System Architecture**, **Design Patterns**, and **Clean Code**.
 - 🔭 Currently working on advanced **Multi-Tenancy SaaS Applications**.
