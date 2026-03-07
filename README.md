@@ -18,11 +18,12 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Senior Computer Science Student** at Kafr El Sheikh University (Class of 2026).
-- 💻 **ITI Graduate** (Intensive Training - PHP & Laravel Full Stack Track).
-- 💼 **Former Backend Developer Intern** at **Huma-volve**.
+- 💻 **ITI Graduate** (126-Hour Intensive Training - PHP & Laravel Full Stack Track).
+- 💼 **Former Backend Developer Intern** at **Huma-volve** (1 Month).
 - 🛠️ Dedicated to building robust **Backend Systems** and **High-Performance APIs**.
-- 📐 Passionate about **System Architecture**, **Design Patterns**, and **Clean Code**.
-- 🔭 Currently working on advanced **Multi-Tenancy SaaS Applications**.
+- 📐 Passionate about **SOLID Principles**, **Service Pattern**, **Form Requests**, and **API Resources**.
+- 🛡️ Focused on **Backend Security** (Data Validation, SQLi prevention) & **Database Optimization** (Preventing N+1 queries via Eager Loading).
+- 🔭 Currently building my graduation project: **Career Compass** (AI-driven CV analysis).
 - 📫 Reach me at: **youseftohtoh46@gmail.com**
 
 ---
@@ -49,10 +50,10 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🏥 Medical System** | Complete clinic management with **Multi-Auth** (Admin/Doctor/Patient), appointment logic, and payments. | `Laravel` `MySQL` |
-| **✈️ Safarni Booking** | Advanced travel booking backend with complex database relationships and optimized queries. | `Laravel` `API` |
-| **💡 Ideas Platform** | Social platform for content sharing with robust **CRUD** operations and authentication policies. | `PHP` `MVC` |
-| **🍲 Cookmates** | Recipe management dashboard and public API, focused on performance and architecture. | `Laravel 10` |
+| **🧭 Career Compass** | (Graduation Project) AI-driven platform designed to analyze CVs and guide students by matching skills with job market demands. | `Laravel` `AI` |
+| **🏥 Medical System** | Comprehensive healthcare system with **Multi-Auth** (Admin/Doctor dashboards), appointment APIs, and payment integration. *(Huma-volve)* | `Laravel` `MySQL` |
+| **✈️ Safarni Booking** | Travel application backend. I architected and implemented the core **Authentication** and **User Profile** modules. *(Huma-volve)* | `Laravel` `API` |
+| **💡 Ideas Platform** | Backend project focusing on clean architecture, efficient data handling, and robust **CRUD** operations. | `PHP` `MVC` |
 
 ---
 
