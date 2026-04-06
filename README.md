@@ -3,75 +3,93 @@
   <h1>Hi there, I'm Yousef Altohamy</h1>
 </div>
 
-<h3 align="center">🚀 Laravel Backend Developer | Building Scalable Solutions</h3>
+<h3 align="center">🚀 Laravel Backend Developer | Building Scalable & High-Performance Solutions</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Backend+Developer;Laravel+%26+PHP+Expert;Crafting+RESTful+APIs;Clean+Code+Enthusiast" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefaltohamy&label=Profile%20Views&color=red&style=flat" alt="yousef-views" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Backend+Developer;Laravel+%26+PHP+Expert;Clean+Code+Enthusiast;API+Architect" alt="Typing SVG" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **Senior Computer Science Student** at Kafr El Sheikh University (Class of 2026).
-- 💻 **ITI Graduate** (126-Hour Intensive Training - PHP & Laravel Full Stack Track).
-- 💼 **Former Backend Developer Intern** at **Huma-volve** (1 Month).
-- 🛠️ Dedicated to building robust **Backend Systems** and **High-Performance APIs**.
-- 📐 Passionate about **SOLID Principles**, **Service Pattern**, **Form Requests**, and **API Resources**.
-- 🛡️ Focused on **Backend Security** (Data Validation, SQLi prevention) & **Database Optimization** (Preventing N+1 queries via Eager Loading).
-- 🔭 Currently building my graduation project: **Career Compass** (AI-driven CV analysis).
-- 📫 Reach me at: **youseftohtoh46@gmail.com**
+[cite_start]I am a dedicated **Laravel Backend Developer** with experience in building scalable web applications and RESTful APIs. [cite_start]I specialize in writing clean, maintainable code following **SOLID principles** and utilizing advanced patterns like **Repository & Service Patterns**.
+
+- [cite_start]🎓 **B.Sc. in Computer Science** at Kafr El Sheikh University (Class of 2026).
+- [cite_start]🏆 **ITI Graduate** (Full Stack Web Development - PHP & Laravel).
+- [cite_start]💼 **Former Backend Intern** at **Huma-volve**, where I contributed to large-scale booking and medical systems.
+- [cite_start]⚡ **Performance Focused:** Proven track record of reducing API response times by 40% and boosting data retrieval speed by 30%.
+- [cite_start]🛡️ **Security Minded:** Experienced in secure payment integrations (Stripe) and robust authentication systems.
+- [cite_start]🔭 **Current Focus:** Developing **Career Compass**, an AI-driven platform for CV analysis and career guidance.
+
+---
+
+### 📄 Curriculum Vitae
+
+<p align="left">
+  <a href="https://drive.google.com/file/d/1ZqoAXJBtPxoJCrUnw-9Xfi3OHcWxd6pJ/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View My CV" />
+  </a>
+</p>
 
 ---
 
 ### 💻 Tech Stack
 
-<div align="center">
-
-  <h3>Languages & Frameworks</h3>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br/>
-
-  <h3>Tools & Workflow</h3>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<div align="left">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h4>Core & Frameworks</h4>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/OOP-000000?style=flat-square&logo=visual-studio-code&logoColor=white" />
+      </td>
+      <td valign="top" width="50%">
+        <h4>Tools & Ecosystem</h4>
+        <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe_API-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHPUnit-4F5B93?style=flat-square&logo=php&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **🧭 Career Compass** | (Graduation Project) AI-driven platform designed to analyze CVs and guide students by matching skills with job market demands. | `Laravel` `AI` |
-| **🏥 Medical System** | Comprehensive healthcare system with **Multi-Auth** (Admin/Doctor dashboards), appointment APIs, and payment integration. *(Huma-volve)* | `Laravel` `MySQL` |
-| **✈️ Safarni Booking** | Travel application backend. I architected and implemented the core **Authentication** and **User Profile** modules. *(Huma-volve)* | `Laravel` `API` |
-| **💡 Ideas Platform** | Backend project focusing on clean architecture, efficient data handling, and robust **CRUD** operations. | `PHP` `MVC` |
+#### 🧭 **Career Compass** (Graduation Project)
+[cite_start]An AI-driven platform designed to analyze CVs and guide students by matching skills with job market demands.
+- [cite_start]**Focus:** Complex database relationships and AI recommendation handling.
+
+#### 🏥 **Medical Management System** (Huma-volve)
+[cite_start]A comprehensive healthcare system featuring multi-role dashboards and secure appointment management.
+- [cite_start]**Achievement:** Successfully integrated **Stripe API** for secure payment processing and implemented **Repository & Service patterns** for high stability.
+
+#### ✈️ **Safarni Booking Platform** (Huma-volve)
+[cite_start]A travel booking system where I architected the core authentication and complex filtering systems.
+- [cite_start]**Impact:** Developed 20+ secure REST APIs and improved data retrieval speed by **30%**.
+
+#### 💡 **Ideas Platform**
+[cite_start]A social media backend focusing on complex Eloquent relationships (Followers, Likes, Threaded Comments).
+- [cite_start]**Optimization:** Used **Laravel Queues & Jobs** to reduce response time by **40%** during high traffic.
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yousefaltohamy&show_icons=true&theme=radity&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yousefaltohamy&layout=compact&theme=radity&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yousefaltohamy&show_icons=true&theme=tokyonight" alt="Yousef's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefaltohamy&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
+### 📫 Let's Connect!
 <div align="center">
-  <b>Let's Connect! 🤝</b><br>
-  <a href="https://www.linkedin.com/in/yousefaltohamy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youseftohtoh46@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/yousefaltohamy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youseftohtoh46@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
