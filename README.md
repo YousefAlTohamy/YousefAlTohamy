@@ -1,87 +1,89 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <h1>Hi there, I'm Yousef Altohamy</h1>
-</div>
-
-<h3 align="center">🚀 Laravel Backend Developer | Building Scalable & Secure Solutions</h3>
+<h1 align="center">Hi, I'm Yousef Al Tohamy 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Backend+Developer;Laravel+%26+PHP+Expert;Crafting+RESTful+APIs;Clean+Code+Enthusiast" alt="Typing SVG" /></a>
+  <strong>Laravel Backend Developer | PHP, MySQL & REST APIs</strong>
 </p>
 
----
-
-### 👨‍💻 About Me
-
-I am a **Backend Developer** specializing in **PHP & Laravel**, currently a Computer Science student (Class of 2026). I focus on building high-performance APIs and robust backend systems while adhering to **SOLID principles** and clean code standards.
-
-- 🎓 **Senior CS Student** at Kafr El Sheikh University.
-- 🏆 **ITI Graduate** (PHP & Laravel Full Stack Track).
-- 💼 **Former Backend Intern** at **Huma-volve**.
-- 🛠️ Expert in **Security** (SQLi prevention) and **Optimization** (Eager Loading).
-- 🔭 Working on **Career Compass**: AI-driven CV analysis platform.
-
----
-
-### 📄 Curriculum Vitae
-<p align="left">
-  <a href="https://drive.google.com/file/d/1ZqoAXJBtPxoJCrUnw-9Xfi3OHcWxd6pJ/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
-  </a>
+<p align="center">
+  I build backend systems around authentication, payments, business workflows, and API integrations.
 </p>
 
----
-
-### 💻 Tech Stack
-
-<div align="left">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h4>Core & Frameworks</h4>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/OOP-000000?style=flat-square&logo=visual-studio-code&logoColor=white" />
-      </td>
-      <td valign="top" width="50%">
-        <h4>Tools & Ecosystem</h4>
-        <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe_API-008CDD?style=flat-square&logo=stripe&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHPUnit-4F5B93?style=flat-square&logo=php&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **🧭 Career Compass** | AI-driven platform for CV analysis and career guidance. | `Laravel` `AI` |
-| **🏥 Medical System** | Healthcare system with **Multi-Auth**, appointment APIs, and Stripe payments. | `Laravel` `MySQL` |
-| **✈️ Safarni Booking** | Travel backend specializing in **Authentication** and **Profile** modules. | `Laravel` `API` |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yousefaltohamy&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefaltohamy&theme=tokyonight&hide_border=true" height="165" alt="Streak" />
-</div>
-
----
-
-<div align="center">
-  <b>Let's Connect! 🤝</b><br>
+<p align="center">
   <a href="https://www.linkedin.com/in/yousefaltohamy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:youseftohtoh46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
+
+---
+
+## About Me
+
+- 🎓 B.Sc. in Computer Science, Kafr El-Sheikh University — Class of 2026.
+- 💼 Backend Developer Trainee at Huma-Volve, contributing to travel-booking and healthcare backend systems.
+- 🧩 Focused on Laravel, PHP, MySQL, REST APIs, authentication, payments, queues, and backend integrations.
+- 🚀 Open to Junior Laravel / PHP Backend Developer opportunities.
+
+---
+
+## Core Stack
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0B5FFF?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Sanctum" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+**Backend focus:** Authentication & Authorization • REST APIs • Booking Workflows • Payments & Webhooks • Database Queues • AI Integrations • CI/CD
+
+---
+
+## Selected Projects
+
+### [CareerCompass — AI-Powered Career Guidance Platform](https://github.com/YousefAlTohamy/CareerCompass)
+**Laravel · MySQL · FastAPI · Docker · Database Queues · GitHub Actions**
+
+Built the core backend workflows for a career guidance platform that supports CV upload and analysis, skill-gap analysis, job recommendations, application tracking, market intelligence, and admin operations. The platform integrates FastAPI services for CV parsing and hybrid job matching, and uses Dockerized services, queue workers, CI workflows, and deployment automation.
+
+### [Huma-Volve Medical Platform](https://github.com/YousefAlTohamy/Huma-volve-Medical-Platform)
+**Laravel · MySQL · Laravel Sanctum · Stripe Test Mode · PHPUnit**
+
+Team project completed during backend training. My focus included appointment booking, payment workflows, saved cards, Stripe Payment Intents in test mode, transaction records, payment-status handling, and duplicate-payment prevention.
+
+### [Safarni — Travel Booking Backend](https://github.com/YousefAlTohamy/Safarni)
+**Laravel · MySQL · Sanctum · OAuth · PHPUnit**
+
+Team project completed during backend training. I owned the authentication module, including registration, OTP verification and resend flows, password reset, Google OAuth, Laravel Sanctum authentication, and protected profile/account workflows.
+
+### [Ideas — Social Media Backend](https://github.com/YousefAlTohamy/Ideas)
+**Laravel · MySQL · Eloquent ORM · Policies · Queues**
+
+Backend project featuring social interactions such as posts, threaded comments, likes, follows, ownership-based authorization, and queued email processing.
+
+---
+
+## Engineering Workflow
+
+- Design and build RESTful APIs with validation, authorization, database transactions, and clear business workflows.
+- Use Docker and database-backed queues for services and asynchronous processing.
+- Build GitHub Actions workflows for pull-request and push-based testing, MySQL-backed Laravel test runs, deployment gates, and smoke checks.
+- Work with payment integrations including Stripe test-mode Payment Intents, and Paymob checkout and signed webhook handling in private team work.
+
+---
+
+## Let’s Connect
+
+I’m always interested in backend engineering opportunities, Laravel/PHP roles, and projects involving APIs, payments, and integrations.
+
+- LinkedIn: [linkedin.com/in/yousefaltohamy](https://www.linkedin.com/in/yousefaltohamy/)
+- Email: [youseftohtoh46@gmail.com](mailto:youseftohtoh46@gmail.com)
