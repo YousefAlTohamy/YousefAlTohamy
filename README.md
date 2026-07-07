@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/yousefaltohamy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://drive.google.com/file/d/1C0Bt5Hj60YyNPYc9UUA_z8bDj54999SB/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View Resume" />
+  </a>
   <a href="mailto:youseftohtoh46@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -21,7 +24,7 @@
 
 ## About Me
 
-- 🎓 B.Sc. in Computer Science, Kafr El-Sheikh University — Class of 2026.
+- 🎓 B.Sc. in Computer Science, Kafr El-Sheikh University (2022–2026).
 - 💼 Backend Developer Trainee at Huma-Volve, contributing to travel-booking and healthcare backend systems.
 - 🧩 Focused on Laravel, PHP, MySQL, REST APIs, authentication, payments, queues, and backend integrations.
 - 🚀 Open to Junior Laravel / PHP Backend Developer opportunities.
@@ -48,7 +51,7 @@
 
 ---
 
-## Selected Projects
+## Projects
 
 ### [CareerCompass — AI-Powered Career Guidance Platform](https://github.com/YousefAlTohamy/CareerCompass)
 **Laravel · MySQL · FastAPI · Docker · Database Queues · GitHub Actions**
@@ -86,4 +89,5 @@ Backend project featuring social interactions such as posts, threaded comments, 
 I’m always interested in backend engineering opportunities, Laravel/PHP roles, and projects involving APIs, payments, and integrations.
 
 - LinkedIn: [linkedin.com/in/yousefaltohamy](https://www.linkedin.com/in/yousefaltohamy/)
+- Resume: [View PDF Resume](https://drive.google.com/file/d/1C0Bt5Hj60YyNPYc9UUA_z8bDj54999SB/view?usp=sharing)
 - Email: [youseftohtoh46@gmail.com](mailto:youseftohtoh46@gmail.com)
