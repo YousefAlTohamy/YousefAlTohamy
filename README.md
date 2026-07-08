@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build backend systems around authentication, payments, business workflows, and API integrations.
+  I build backend systems around authentication, payments, booking workflows, queues, and API integrations.
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 ## About Me
 
 - 🎓 B.Sc. in Computer Science, Kafr El-Sheikh University (2022–2026).
-- 💼 Backend Developer Trainee at Huma-Volve, contributing to travel-booking and healthcare backend systems.
-- 🧩 Focused on Laravel, PHP, MySQL, REST APIs, authentication, payments, queues, and backend integrations.
+- 🧑‍💻 Junior Laravel Backend Developer focused on REST APIs, authentication, payments, queues, and backend integrations.
+- 🧩 Built projects across AI-powered career guidance, healthcare appointment systems, travel booking APIs, and social platforms.
 - 🚀 Open to Junior Laravel / PHP Backend Developer opportunities.
 
 ---
@@ -56,37 +56,37 @@
 ### [CareerCompass — AI-Powered Career Guidance Platform](https://github.com/YousefAlTohamy/CareerCompass)
 **Laravel · MySQL · FastAPI · Docker · Database Queues · GitHub Actions**
 
-Built the core backend workflows for a career guidance platform that supports CV upload and analysis, skill-gap analysis, job recommendations, application tracking, market intelligence, and admin operations. The platform integrates FastAPI services for CV parsing and hybrid job matching, and uses Dockerized services, queue workers, CI workflows, and deployment automation.
+Graduation project for AI-powered career guidance. The platform supports CV upload and analysis, skill-gap insights, job recommendations, application tracking, market intelligence, admin operations, FastAPI-powered CV parsing and hybrid job matching, Dockerized services, queue workers, and CI/CD workflows.
 
 ### [Huma-Volve Medical Platform](https://github.com/YousefAlTohamy/Huma-volve-Medical-Platform)
 **Laravel · MySQL · Laravel Sanctum · Stripe Test Mode · PHPUnit**
 
-Team project completed during backend training. My focus included appointment booking, payment workflows, saved cards, Stripe Payment Intents in test mode, transaction records, payment-status handling, and duplicate-payment prevention.
+Healthcare backend team project focused on appointment booking, doctor availability, Stripe test-mode Payment Intents, saved cards, transaction records, payment-status handling, duplicate-payment prevention, patient-doctor chat, and admin/doctor dashboard workflows.
 
 ### [Safarni — Travel Booking Backend](https://github.com/YousefAlTohamy/Safarni)
-**Laravel · MySQL · Sanctum · OAuth · PHPUnit**
+**Laravel · MySQL · Laravel Sanctum · Google OAuth · PHPUnit**
 
-Team project completed during backend training. I owned the authentication module, including registration, OTP verification and resend flows, password reset, Google OAuth, Laravel Sanctum authentication, and protected profile/account workflows.
+Travel booking backend team project with OTP authentication, Google OAuth, password reset, Sanctum-protected profile workflows, flight search, seat locking, booking checkout, passenger management, hotel discovery APIs, and role-based admin operations.
 
 ### [Ideas — Social Media Backend](https://github.com/YousefAlTohamy/Ideas)
 **Laravel · MySQL · Eloquent ORM · Policies · Queues**
 
-Backend project featuring social interactions such as posts, threaded comments, likes, follows, ownership-based authorization, and queued email processing.
+Social platform backend featuring ideas, threaded comments, likes, follows, personalized feeds, ownership-based authorization, admin controls, REST APIs, AJAX interactions, and queued welcome emails.
 
 ---
 
 ## Engineering Workflow
 
 - Design and build RESTful APIs with validation, authorization, database transactions, and clear business workflows.
-- Use Docker and database-backed queues for services and asynchronous processing.
-- Build GitHub Actions workflows for pull-request and push-based testing, MySQL-backed Laravel test runs, deployment gates, and smoke checks.
-- Work with payment integrations including Stripe test-mode Payment Intents, and Paymob checkout and signed webhook handling in private team work.
+- Build authentication flows using Laravel Sanctum, OTP verification, Google OAuth, password reset, and role-based access control.
+- Work with booking and payment workflows, including Stripe test-mode Payment Intents, saved cards, transactions, and Paymob checkout/webhook handling in private team work.
+- Use Docker, queues, and GitHub Actions for service orchestration, async processing, automated validation, and deployment workflow scaffolding.
 
 ---
 
 ## Let’s Connect
 
-I’m always interested in backend engineering opportunities, Laravel/PHP roles, and projects involving APIs, payments, and integrations.
+I’m interested in backend engineering opportunities, Laravel/PHP roles, and projects involving APIs, payments, booking systems, and integrations.
 
 - LinkedIn: [linkedin.com/in/yousefaltohamy](https://www.linkedin.com/in/yousefaltohamy/)
 - Resume: [View PDF Resume](https://drive.google.com/file/d/1C0Bt5Hj60YyNPYc9UUA_z8bDj54999SB/view?usp=sharing)
