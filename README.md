@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://yousef-altohamy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/yousefaltohamy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -27,6 +30,7 @@
 - 🎓 B.Sc. in Computer Science, Kafr El-Sheikh University (2022–2026).
 - 🧑‍💻 Junior Laravel Backend Developer focused on REST APIs, authentication, payments, queues, and backend integrations.
 - 🧩 Built projects across AI-powered career guidance, healthcare appointment systems, travel booking APIs, and social platforms.
+- 🌐 Portfolio: [yousef-altohamy.vercel.app](https://yousef-altohamy.vercel.app/)
 - 🚀 Open to Junior Laravel / PHP Backend Developer opportunities.
 
 ---
@@ -88,6 +92,7 @@ Social platform backend featuring ideas, threaded comments, likes, follows, pers
 
 I’m interested in backend engineering opportunities, Laravel/PHP roles, and projects involving APIs, payments, booking systems, and integrations.
 
+- Portfolio: [yousef-altohamy.vercel.app](https://yousef-altohamy.vercel.app/)
 - LinkedIn: [linkedin.com/in/yousefaltohamy](https://www.linkedin.com/in/yousefaltohamy/)
 - Resume: [View PDF Resume](https://drive.google.com/file/d/1C0Bt5Hj60YyNPYc9UUA_z8bDj54999SB/view?usp=sharing)
 - Email: [youseftohtoh46@gmail.com](mailto:youseftohtoh46@gmail.com)
