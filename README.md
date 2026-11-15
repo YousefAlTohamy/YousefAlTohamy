@@ -2,7 +2,7 @@
 
 **Founder @ [Jidar](https://jidar0x0.com) · Backend Engineer · Cairo, Egypt**
 
-[Portfolio](https://yousef-altohamy.vercel.app/) · [Jidar](https://jidar0x0.com) · [LinkedIn](https://www.linkedin.com/in/yousefaltohamy/) · [Email](mailto:yousef.altohamy.ahmed@gmail.com)
+[Portfolio](https://yousef-altohamy.vercel.app/) · [CV (PDF)](https://yousef-altohamy.vercel.app/Yousef-Altohamy-CV.pdf) · [Jidar](https://jidar0x0.com) · [LinkedIn](https://www.linkedin.com/in/yousefaltohamy/) · [Email](mailto:yousef.altohamy.ahmed@gmail.com)
 
 I build practical products and the backend systems behind them. My work connects business requirements to APIs, data models, authentication, payments, and background processing.
 
@@ -45,4 +45,4 @@ B.Sc. in Computer Science, **Kafr El-Sheikh University** (2022–2026). Previous
 
 For backend engineering opportunities, product ideas, or a conversation about website security:
 
-**[yousef.altohamy.ahmed@gmail.com](mailto:yousef.altohamy.ahmed@gmail.com)** · [Portfolio](https://yousef-altohamy.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yousefaltohamy/)
+**[yousef.altohamy.ahmed@gmail.com](mailto:yousef.altohamy.ahmed@gmail.com)** · [Portfolio](https://yousef-altohamy.vercel.app/) · [CV (PDF)](https://yousef-altohamy.vercel.app/Yousef-Altohamy-CV.pdf) · [LinkedIn](https://www.linkedin.com/in/yousefaltohamy/)
