@@ -10,5 +10,4 @@
   <path d="M60 252H1140" stroke="#3f4838"/>
   <text x="60" y="286" fill="#9da991" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="1">CAIRO, EGYPT</text>
   <text x="1140" y="286" fill="#ff7a3d" font-family="Consolas, 'Courier New', monospace" font-size="15" text-anchor="end">yousef-altohamy.vercel.app</text>
-  <path d="M1038 107H1110V179M1110 107L1038 179" fill="none" stroke="#ff7a3d" stroke-width="7" stroke-linecap="square"/>
 </svg>
