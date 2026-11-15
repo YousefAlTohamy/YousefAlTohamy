@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Yousef Altohamy — Founder at Jidar and Backend Engineer</title>
+  <desc id="description">Founder’s mindset. Engineer’s craft. A charcoal, warm-paper, and orange banner matching Yousef’s portfolio.</desc>
+  <rect width="1200" height="320" rx="12" fill="#171a17"/>
+  <rect x="1" y="1" width="1198" height="318" rx="11" fill="none" stroke="#3f4838" stroke-width="2"/>
+  <rect x="58" y="51" width="8" height="8" fill="#ff7a3d"/>
+  <text x="82" y="60" fill="#c0c8b7" font-family="Consolas, 'Courier New', monospace" font-size="17" letter-spacing="2">FOUNDER @ JIDAR / BACKEND ENGINEER</text>
+  <text x="56" y="157" fill="#f4f1eb" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="650" letter-spacing="-3">Yousef Altohamy<tspan fill="#ff7a3d">.</tspan></text>
+  <text x="60" y="210" fill="#c0c8b7" font-family="'Segoe UI', Arial, sans-serif" font-size="26">Founder’s mindset. Engineer’s craft.</text>
+  <path d="M60 252H1140" stroke="#3f4838"/>
+  <text x="60" y="286" fill="#9da991" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="1">CAIRO, EGYPT</text>
+  <text x="1140" y="286" fill="#ff7a3d" font-family="Consolas, 'Courier New', monospace" font-size="15" text-anchor="end">yousef-altohamy.vercel.app</text>
+  <path d="M1038 107H1110V179M1110 107L1038 179" fill="none" stroke="#ff7a3d" stroke-width="7" stroke-linecap="square"/>
+</svg>

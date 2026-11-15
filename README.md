@@ -1,98 +1,48 @@
-<h1 align="center">Hi, I'm Yousef Al Tohamy 👋</h1>
+![Yousef Altohamy — Founder at Jidar and Backend Engineer. Founder’s mindset. Engineer’s craft.](assets/profile-header.svg)
 
-<p align="center">
-  <strong>Laravel Backend Developer | PHP, MySQL & REST APIs</strong>
-</p>
+**Founder @ [Jidar](https://jidar0x0.com) · Backend Engineer · Cairo, Egypt**
 
-<p align="center">
-  I build backend systems around authentication, payments, booking workflows, queues, and API integrations.
-</p>
+[Portfolio](https://yousef-altohamy.vercel.app/) · [Jidar](https://jidar0x0.com) · [LinkedIn](https://www.linkedin.com/in/yousefaltohamy/) · [Email](mailto:yousef.altohamy.ahmed@gmail.com)
 
-<p align="center">
-  <a href="https://yousef-altohamy.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/yousefaltohamy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://drive.google.com/file/d/11SLRUf9nVHJLy-mzFcGVy00wneV5Wyr4/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View%20Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View Resume" />
-  </a>
-  <a href="mailto:youseftohtoh46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+I build practical products and the backend systems behind them. My work connects business requirements to APIs, data models, authentication, payments, and background processing.
 
----
+## Currently building: Jidar
 
-## About Me
+I founded **[Jidar](https://jidar0x0.com)** in January 2026, an Egyptian cybersecurity startup focused on making website protection simpler for businesses and developers.
 
-- 🎓 B.Sc. in Computer Science, Kafr El-Sheikh University (2022–2026).
-- 🧑‍💻 Junior Laravel Backend Developer focused on REST APIs, authentication, payments, queues, and backend integrations.
-- 🧩 Built projects across AI-powered career guidance, healthcare appointment systems, travel booking APIs, and social platforms.
-- 🌐 Portfolio: [yousef-altohamy.vercel.app](https://yousef-altohamy.vercel.app/)
-- 🚀 Open to Junior Laravel / PHP Backend Developer opportunities.
+My role combines building the business with hands-on backend engineering: understanding the problem, shaping the product, and turning security requirements into maintainable application workflows.
 
----
+[Explore Jidar](https://jidar0x0.com) · [GitHub organization](https://github.com/Jidar0x0) · [Follow the journey](https://www.linkedin.com/company/jidar0x0/)
 
-## Core Stack
+## Engineering focus
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0B5FFF?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Sanctum" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
+- **Clear API boundaries:** validation, authentication, authorization, and predictable responses.
+- **Data and business logic:** database relationships, booking workflows, payment states, and background jobs.
+- **Reliability:** thoughtful testing, maintainable code, and careful handling of failures and duplicate requests.
 
-**Backend focus:** Authentication & Authorization • REST APIs • Booking Workflows • Payments & Webhooks • Database Queues • AI Integrations • CI/CD
+## Selected projects
 
----
+| Project | What I worked on |
+| --- | --- |
+| [CareerCompass](https://github.com/YousefAlTohamy/CareerCompass) | AI-powered career guidance: CV analysis, skill-gap insights, hybrid job matching, and application tracking. Laravel, MySQL, FastAPI, Docker, and queues. |
+| [Huma-Volve Medical Platform](https://github.com/YousefAlTohamy/Huma-volve-Medical-Platform) | Healthcare backend team project: appointments, doctor availability, Stripe **test-mode** payments, chat, and dashboard workflows. Laravel, MySQL, Sanctum, and PHPUnit. |
+| [Safarni](https://github.com/YousefAlTohamy/Safarni) | Travel booking backend team project: OTP, Google OAuth, flight search, seat locking, checkout, and passenger management. Laravel, MySQL, and REST APIs. |
+| [Ideas](https://github.com/YousefAlTohamy/Ideas) | Social platform backend: ideas, comments, likes, follows, feeds, ownership-based authorization, and queued emails. Laravel, Eloquent, Policies, and queues. |
 
-## Projects
+## Tools I work with
 
-### [CareerCompass — AI-Powered Career Guidance Platform](https://github.com/YousefAlTohamy/CareerCompass)
-**Laravel · MySQL · FastAPI · Docker · Database Queues · GitHub Actions**
+**Core:** PHP · Laravel · MySQL · REST APIs · Authentication & Authorization · Queues
 
-Graduation project for AI-powered career guidance. The platform supports CV upload and analysis, skill-gap insights, job recommendations, application tracking, market intelligence, admin operations, FastAPI-powered CV parsing and hybrid job matching, Dockerized services, queue workers, and CI/CD workflows.
+**Development:** Git · GitHub · Docker · GitHub Actions · PHPUnit · Postman
 
-### [Huma-Volve Medical Platform](https://github.com/YousefAlTohamy/Huma-volve-Medical-Platform)
-**Laravel · MySQL · Laravel Sanctum · Stripe Test Mode · PHPUnit**
+**Supporting technologies used in selected projects:** FastAPI · Python · React · TypeScript
 
-Healthcare backend team project focused on appointment booking, doctor availability, Stripe test-mode Payment Intents, saved cards, transaction records, payment-status handling, duplicate-payment prevention, patient-doctor chat, and admin/doctor dashboard workflows.
+## Background
 
-### [Safarni — Travel Booking Backend](https://github.com/YousefAlTohamy/Safarni)
-**Laravel · MySQL · Laravel Sanctum · Google OAuth · PHPUnit**
+B.Sc. in Computer Science, **Kafr El-Sheikh University** (2022–2026). Previously a **Backend Developer Intern at Huma-Volve** (December 2025–January 2026).
 
-Travel booking backend team project with OTP authentication, Google OAuth, password reset, Sanctum-protected profile workflows, flight search, seat locking, booking checkout, passenger management, hotel discovery APIs, and role-based admin operations.
+## Let’s connect
 
-### [Ideas — Social Media Backend](https://github.com/YousefAlTohamy/Ideas)
-**Laravel · MySQL · Eloquent ORM · Policies · Queues**
+For backend engineering opportunities, product ideas, or a conversation about website security:
 
-Social platform backend featuring ideas, threaded comments, likes, follows, personalized feeds, ownership-based authorization, admin controls, REST APIs, AJAX interactions, and queued welcome emails.
-
----
-
-## Engineering Workflow
-
-- Design and build RESTful APIs with validation, authorization, database transactions, and clear business workflows.
-- Build authentication flows using Laravel Sanctum, OTP verification, Google OAuth, password reset, and role-based access control.
-- Work with booking and payment workflows, including Stripe test-mode Payment Intents, saved cards, transactions, and Paymob checkout/webhook handling in private team work.
-- Use Docker, queues, and GitHub Actions for service orchestration, async processing, automated validation, and deployment workflow scaffolding.
-
----
-
-## Let’s Connect
-
-I’m interested in backend engineering opportunities, Laravel/PHP roles, and projects involving APIs, payments, booking systems, and integrations.
-
-- Portfolio: [yousef-altohamy.vercel.app](https://yousef-altohamy.vercel.app/)
-- LinkedIn: [linkedin.com/in/yousefaltohamy](https://www.linkedin.com/in/yousefaltohamy/)
-- Resume: [View PDF Resume](https://drive.google.com/file/d/11SLRUf9nVHJLy-mzFcGVy00wneV5Wyr4/view?usp=sharing)
-- Email: [youseftohtoh46@gmail.com](mailto:youseftohtoh46@gmail.com)
+**[yousef.altohamy.ahmed@gmail.com](mailto:yousef.altohamy.ahmed@gmail.com)** · [Portfolio](https://yousef-altohamy.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yousefaltohamy/)
